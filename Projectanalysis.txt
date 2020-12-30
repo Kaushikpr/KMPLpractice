@@ -1,0 +1,35 @@
+Four characters
+Customer, Vendor, Order, Menu
+
+Customer
+Columns: Customer ID, name and wallet balance
+Food name, Order ID, order amount, number of items
+
+Menu=>Food ID, cost per piece, Pieces per plate(info about food item)
+Homepage=> Menu=> Cart=> Place order=> Sign up or sign in
+
+Sign up=> Customer Id, wallet balance
+
+Order placement: If balance> order amount=> succeess=> vendor accepts or denies
+
+Order history: To easily reorder past order
+
+Order status: Accept, Deny, Pending 
+
+Order feedback, Reviews
+
+Food vendor
+
+Columns: Vendor ID, Name
+
+Each order type corresponds to a specific vendor
+
+This helps categorising Veg and Non veg
+
+Food item ID 
+
+Vendor previlige: Can accept or decline orders
+
+Can check all the orders obtained so far. Help track profit
+
+Check reviews
